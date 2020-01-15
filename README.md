@@ -1,0 +1,1 @@
+Companion code to the blog post [Sneak Peak: Confluent Schema Registry & Protobuf](https://www.matthowlett.com/2020-01-14-confluent-schema-registry-protobuf.html)
